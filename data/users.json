@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "password": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "password": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "password": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257",
+      "geo": {
+        "lat": "29.4572",
+        "lng": "-164.2990"
+      }
+    },
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "company": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "bs": "transition cutting-edge web services"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "address": {
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263",
+      "geo": {
+        "lat": "-31.8129",
+        "lng": "62.5342"
+      }
+    },
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "company": {
+      "name": "Keebler LLC",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "bs": "revolutionize end-to-end systems"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "address": {
+      "street": "Norberto Crossing",
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "zipcode": "23505-1337",
+      "geo": {
+        "lat": "-71.4197",
+        "lng": "71.7478"
+      }
+    },
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org",
+    "company": {
+      "name": "Considine-Lockman",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "bs": "e-enable innovative applications"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099",
+      "geo": {
+        "lat": "24.8918",
+        "lng": "21.8984"
+      }
+    },
+    "phone": "210.067.6132",
+    "website": "elvis.io",
+    "company": {
+      "name": "Johns Group",
+      "catchPhrase": "Configurable multimedia task-force",
+      "bs": "generate enterprise e-tailers"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "address": {
+      "street": "Ellsworth Summit",
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "zipcode": "45169",
+      "geo": {
+        "lat": "-14.3990",
+        "lng": "-120.7677"
+      }
+    },
+    "phone": "586.493.6943 x140",
+    "website": "jacynthe.com",
+    "company": {
+      "name": "Abernathy Group",
+      "catchPhrase": "Implemented secondary concept",
+      "bs": "e-enable extensible e-tailers"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "Chaim_McDermott@dana.io",
+    "address": {
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "zipcode": "76495-3109",
+      "geo": {
+        "lat": "24.6463",
+        "lng": "-168.8889"
+      }
+    },
+    "phone": "(775)976-6794 x41206",
+    "website": "conrad.com",
+    "company": {
+      "name": "Yost and Sons",
+      "catchPhrase": "Switchable contextually-based project",
+      "bs": "aggregate real-time technologies"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
+      }
+    },
+    "phone": "024-648-3804",
+    "website": "ambrose.net",
+    "company": {
+      "name": "Hoeger LLC",
+      "catchPhrase": "Centralized empowering task-force",
+      "bs": "target end-to-end models"
+    }
+  },
+  {
+    "id": "11",
+    "username": "sonu",
+    "password": "sonu",
+    "name": "Sonu Joshi",
+    "email": "sonu@gmail.com",
+    "city": "Bengaluru",
+    "phone": "23232323233333",
+    "gender": "female",
+    "birthdate": "2024-05-28",
+    "bio": "abc def",
+    "website": "https://abc.com",
+    "interests": [
+      "music",
+      "sports"
+    ],
+    "avatar": "uploads\\1718789418628-profile.jpg",
+    "cv": "uploads\\1718789456303-android-studio-2023.3.1.19-windows.exe",
+    "subscribe": "true"
+  },
+  {
+    "id": 12,
+    "username": "rupa",
+    "password": "rupa"
+  },
+  {
+    "id": 13,
+    "name": "Vaman Deshmukh",
+    "username": "vaman",
+    "password": "vaman",
+    "email": "vaman@gmail.com",
+    "address": {
+      "street": "Bank street",
+      "suite": "Abids",
+      "city": "Hyderabad",
+      "zipcode": "500001",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+91-9010-160-106",
+    "website": "https://www.vamandeshmukh.com",
+    "company": {
+      "name": "Vamux Deshmukh",
+      "catchPhrase": "Good company",
+      "bs": "bs"
+    }
+  },
+  {
+    "id": "14",
+    "username": "nilu",
+    "password": "nilu",
+    "name": "Nilu",
+    "email": "nilu@gmail.com",
+    "city": "Hyd",
+    "phone": "9080",
+    "website": "",
+    "gender": "female",
+    "interests": [
+      "food",
+      "sports"
+    ],
+    "birthdate": "2024-05-31",
+    "bio": "abc",
+    "avatar": "uploads\\1718770226470-profile.jpg",
+    "cv": "uploads\\1718770226470-java-design-patterns-tutorials.pdf"
+  },
+  {
+    "id": "141",
+    "username": "pinu",
+    "password": "pinu",
+    "name": "Pinu Pinu",
+    "email": "pinu@gmail.comq",
+    "city": "hydq",
+    "phone": "908023",
+    "gender": "male",
+    "interests": "music",
+    "avatar": "uploads\\1718790789279-ibm-final.png",
+    "cv": "uploads\\1718790789280-tse-allianz-angular-js-toc-june-2024.docx",
+    "bio": "1"
+  },
+  {
+    "id": "1411",
+    "username": "anu",
+    "password": "anu"
+  },
+  {
+    "id": "14111",
+    "username": "abc",
+    "password": "abc"
+  },
+  {
+    "id": "141111",
+    "username": "nandini",
+    "password": "nandini"
+  },
+  {
+    "id": "1411111",
+    "username": "xyz",
+    "password": "xyz",
+    "name": "Vaman Deshmukh",
+    "email": "vamandeshmukh@gmail.com",
+    "city": "Hyderabad",
+    "phone": "09010160106",
+    "gender": "male",
+    "interests": [
+      "music",
+      "sports"
+    ],
+    "subscribe": "true",
+    "avatar": "uploads\\1718790849768-Black.png",
+    "cv": "uploads\\1718790849768-react-mcqs.docx"
+  },
+  {
+    "id": "14111111",
+    "username": "user",
+    "password": "user",
+    "name": "User",
+    "email": "u@s.er",
+    "city": "H",
+    "phone": "2",
+    "gender": "female",
+    "interests": [
+      "sports"
+    ],
+    "avatar": "uploads\\1718791083123-citi-bank.png",
+    "cv": "uploads\\1718791083123-misalpav.png"
+  },
+  {
+    "id": "141111111",
+    "username": "ezhar",
+    "password": "ezhar",
+    "name": "Name",
+    "city": "City",
+    "avatar": "uploads\\1718791898433-img20230119_12454627.jpg",
+    "cv": "uploads\\1718791278475-pass-word.txt",
+    "bio": "a"
+  },
+  {
+    "id": "1411111111",
+    "username": "tonu",
+    "password": "tonu",
+    "avatar": "uploads\\1718793586027-pp1.jpg",
+    "cv": "uploads\\1718794014480-android-studio-2023.3.1.19-windows.exe",
+    "interests": [
+      "food"
+    ]
+  }
+]
